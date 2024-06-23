@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB73772D2C27C76E00E679C3 /* demoGithubProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB73772C2C27C76E00E679C3 /* demoGithubProjectApp.swift */; };
 		FB73772F2C27C76E00E679C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB73772E2C27C76E00E679C3 /* ContentView.swift */; };
 		FB7377312C27C76F00E679C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7377302C27C76F00E679C3 /* Assets.xcassets */; };
 		FB7377342C27C76F00E679C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7377332C27C76F00E679C3 /* Preview Assets.xcassets */; };
